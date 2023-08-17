@@ -1,8 +1,8 @@
 # IPL-Data-Insights
 
 ![IPL Logo]
+![tata_ipl_logo_png_by_harshmore7781_df0fniy-fullview](https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/66eacff0-65a4-4eb8-a6f6-8785a5b3787c)
 
-https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/2dd1c58c-3496-467b-9e78-104b71c0c776
 
 Welcome to the IPL Data Analysis Project repository! Here, we explore the exciting world of Indian Premier League (IPL) cricket through data analysis and visualization. This project aims to uncover key insights, trends, and statistics from IPL seasons spanning 2008 to 2022.
 
