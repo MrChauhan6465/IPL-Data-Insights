@@ -1,6 +1,5 @@
 # IPL-Data-Insights
 
-![IPL Logo]
 ![tata_ipl_logo_png_by_harshmore7781_df0fniy-fullview](https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/66eacff0-65a4-4eb8-a6f6-8785a5b3787c)
 
 
