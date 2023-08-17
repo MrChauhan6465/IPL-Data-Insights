@@ -17,8 +17,8 @@ The IPL Data Analysis Project focuses on dissecting various aspects of IPL crick
 - Analyze team performance through Winning % Based on Toss Decision, Matches Win By Venue, Total Wins By Team for Season, and Matches Win By Result Type.
 
 ## Dashboard Preview
+![Screenshot ](https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/57e94e41-bc8a-4a80-8827-4c57a386b794)
 
-https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/b8074133-b00c-431a-ab21-c72b486b51ea
 
 https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/cfc688d6-b5d2-4010-a61b-95910a86cfc0
 
