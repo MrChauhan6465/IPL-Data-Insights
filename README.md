@@ -1,6 +1,8 @@
 # IPL-Data-Insights
 
-![IPL Logo](link-to-your-image.png)
+![IPL Logo]
+
+https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/2dd1c58c-3496-467b-9e78-104b71c0c776
 
 Welcome to the IPL Data Analysis Project repository! Here, we explore the exciting world of Indian Premier League (IPL) cricket through data analysis and visualization. This project aims to uncover key insights, trends, and statistics from IPL seasons spanning 2008 to 2022.
 
@@ -16,6 +18,11 @@ The IPL Data Analysis Project focuses on dissecting various aspects of IPL crick
 - Analyze team performance through Winning % Based on Toss Decision, Matches Win By Venue, Total Wins By Team for Season, and Matches Win By Result Type.
 
 ## Dashboard Preview
+
+![Screenshot ]
+https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/b8074133-b00c-431a-ab21-c72b486b51ea
+
+https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/cfc688d6-b5d2-4010-a61b-95910a86cfc0
 
 
 
