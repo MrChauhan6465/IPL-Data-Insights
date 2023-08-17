@@ -18,7 +18,6 @@ The IPL Data Analysis Project focuses on dissecting various aspects of IPL crick
 
 ## Dashboard Preview
 
-![Screenshot ]
 https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/b8074133-b00c-431a-ab21-c72b486b51ea
 
 https://github.com/MrChauhan6465/IPL-Data-Insights/assets/89354259/cfc688d6-b5d2-4010-a61b-95910a86cfc0
